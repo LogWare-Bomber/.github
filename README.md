@@ -5,8 +5,10 @@
 
 - 🔭 We're currently working on **Email-Bomber** and **OTP Bot**
 
-Developers:
-- Logerxy
+## Developers:
+### Logerxy
+Contact:
+<a href="https://cracked.io/Logerxy" target="blank"><img align="center" src="https://cracked.io/images/256x256.png" alt="dTV46fbq" height="40" width="40" /></a>
 
 
 <h3 align="left">Connect with us:</h3>
