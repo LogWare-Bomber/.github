@@ -9,6 +9,6 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="hthttps://t.me/LogWareUpdates" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="dTV46fbq" height="40" width="40" /></a>
+<a href="https://t.me/LogWareUpdates" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="dTV46fbq" height="40" width="40" /></a>
 </p>
 
