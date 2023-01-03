@@ -5,7 +5,7 @@
 
 - 🔭 We're currently working on **Email-Bomber** and **OTP Bot**
 
-- Developers:
+Developers:
 - Logerxy
 
 
