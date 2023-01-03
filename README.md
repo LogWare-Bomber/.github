@@ -5,7 +5,9 @@
 
 - 🔭 We're currently working on **Email-Bomber** and **OTP Bot**
 
-- 📫 How to reach us **https://t.me/Logerxy** or **https://t.me/LogWareUpdates**
+- Developers:
+- Logerxy
+
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
